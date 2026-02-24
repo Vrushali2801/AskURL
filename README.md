@@ -17,8 +17,8 @@ A Streamlit web application that lets you load content from multiple URLs and as
 
 ```powershell
 # Clone the repository
-git clone <repository-url>
-cd News-Search-Tool
+git clone https://github.com/Vrushali2801/AskURL.git
+cd AskURL
 
 # Create and activate virtual environment
 python -m venv .venv
