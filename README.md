@@ -139,11 +139,3 @@ News-Search-Tool/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## 💙 Credits
-
-Inspired by the [CodeBasics RockyBot Tutorial](https://github.com/codebasics/langchain/tree/main/2_news_research_tool_project), enhanced with modular architecture and additional features.
-
-## 📄 License
-
-MIT License
